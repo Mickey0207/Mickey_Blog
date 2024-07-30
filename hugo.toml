@@ -1,0 +1,11 @@
+# 使用的主題
+theme = "blowfish"
+
+# 網站網址，先維持預設
+baseURL = "https://example.org/"
+
+# 預設網站語言
+languageCode = "zh-TW"
+
+# 網站標題
+title = "Mickey_Blog"
