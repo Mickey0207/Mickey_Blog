@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Mickey Blog</title>
+    <link>http://localhost:1313/series/technology/</link>
+    <description>Recent content in Technology on Mickey Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-TW</language>
+    <copyright>2024 Mickey Blog</copyright>
+    <lastBuildDate>Tue, 30 Jul 2024 02:48:07 +0800</lastBuildDate><atom:link href="http://localhost:1313/series/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian_Github_Setting</title>
+      <link>http://localhost:1313/posts/program_setting/obsidian/obsidian_github_setting/</link>
+      <pubDate>Tue, 30 Jul 2024 02:48:07 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/program_setting/obsidian/obsidian_github_setting/</guid>
+      <description>Use Obsidian clone github repositories on the Phone and comply git_push git_pull commit.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/program_setting/obsidian/obsidian_github_setting/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

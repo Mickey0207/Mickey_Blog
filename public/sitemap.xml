@@ -3,15 +3,93 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/helloworld/</loc>
-    <lastmod>2024-07-31T00:07:17+08:00</lastmod>
+    <loc>http://localhost:1313/posts/program_language/html/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-31T00:07:17+08:00</lastmod>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_setting/obsidian/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_setting/obsidian/obsidian_github_setting/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/python/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_setting/android_termux/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_setting/vs_code/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/chinese/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/chinese/human_biography/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/chinese/sky_biography/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_setting/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-31T00:07:17+08:00</lastmod>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_setting/android_termux/android_termux_git_setting/</loc>
+    <lastmod>2024-07-29T02:50:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

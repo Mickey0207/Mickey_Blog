@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>天紀 on Mickey Blog</title>
+    <link>http://localhost:1313/posts/chinese/sky_biography/</link>
+    <description>Recent content in 天紀 on Mickey Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-TW</language>
+    <copyright>2024 Mickey Blog</copyright>
+    <lastBuildDate>Tue, 30 Jul 2024 02:48:07 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/chinese/sky_biography/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

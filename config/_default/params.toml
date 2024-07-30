@@ -1,0 +1,150 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/configuration/#theme-parameters
+
+colorScheme = "ocean"   #/ 主題的顏色方案
+defaultAppearance = "dark" #/ 網站預設外觀  # valid options: light or dark
+autoSwitchAppearance = true #/ 根據閱讀者系統設定外觀
+
+enableSearch = true   #/ 開啟網站搜尋功能
+enableCodeCopy = false #/ 是否開啟程式碼複製功能
+
+# mainSections = ["section1", "section2"]
+# robots = ""
+
+disableImageOptimization = false
+disableTextInHeader = false
+
+defaultBackgroundImage = "Images/background.svg" #/ 設定主頁背景圖 # used as default for background images 
+# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+
+highlightCurrentMenuArea = true   #/ 當選單被選擇時，標記主選單中的選單項目。
+smartTOC = true   #/ 開啟智慧型目錄，檢視中的項目將會被高亮顯示。
+smartTOCHideUnfocusedChildren = true    #/ 	當開啟智慧目錄，如果目錄層級不再被聚焦時，將會隱藏更深層的目錄。
+
+[header]
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+
+[footer]
+  showMenu = false    #/ 顯示/隱藏頁尾清單
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "background" #/ 主頁的顯示模式 # valid options: page, profile, hero, card, background, custom
+  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  showRecent = true    #/ 在主頁展示最新文章
+  showRecentItems = 5
+  showMoreLink = true    #/ 是否在主頁底部添加“顯示更多”，該連結會降會用帶到一個預定義位置。
+  showMoreLinkDest = "/Posts"   #/ 更多按鈕所指向的位置。
+  cardView = true   #/ 將清單展示為卡片容器。
+  cardViewScreenWidth = true    #/ 增強清單中卡片的寬度，使其可以佔據可用的全部寬度。
+  layoutBackgroundBlur = true     #/ 向下捲動主頁時，是否模糊背景圖。 # only used when layout equals background
+
+[article]
+  showDate = true   #/ 是否顯示日期。
+  showViews = false
+  showLikes = false
+  showDateOnlyInArticle = true   #/ 在文章內顯示日期，不影響文章清單或卡片頁面的日期顯示。
+  showDateUpdated = true    #/ 展示文章的更新日期。
+  showAuthor = true
+  # showAuthorBottom = false
+  showHero = true   #/ 是否在文章內展示縮圖
+  heroStyle = "background" #/ 展示縮圖的樣式 # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  showBreadcrumbs = true #/ 在文章內加入麵包屑導覽
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = true
+  seriesOpened = false
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true    #/ 展示文章目錄
+  # showRelatedContent = false
+  # relatedContentLimit = 3
+  showTaxonomies = true   #/ 顯示文章的分類或標籤資訊。
+  showAuthorsBadges = false
+  showWordCount = true    #/ 顯示文章字數
+  # sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  showZenMode = false
+
+[list]
+  showHero = true    #/ #/ 是否在文章內展示縮圖
+  heroStyle = "background"    #/ #/ 展示縮圖的樣式 # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  showBreadcrumbs = true    #/ 顯示目錄
+  showSummary = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = false    #/ 啟用麵包屑導覽
+  showCards = true
+  orderByWeight = false
+  groupByYear = true
+  cardView = true    #/ 	將清單展示為卡片容器
+  cardViewScreenWidth = false     #/ 增強清單中卡片的寬度，使其可以佔據可用的全部寬度。
+  constrainItemsWidth = false     #/ 是否顯示目錄。
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  showTermCount = true
+  showHero = false
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  cardView = false
+
+[term]
+  showHero = false
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  groupByYear = false
+  cardView = false
+  cardViewScreenWidth = false
+
+[firebase]
+  # apiKey = "XXXXXX"
+  # authDomain = "XXXXXX"
+  # projectId = "XXXXXX"
+  # storageBucket = "XXXXXX"
+  # messagingSenderId = "XXXXXX"
+  # appId = "XXXXXX"
+  # measurementId = "XXXXXX"
+
+[fathomAnalytics]
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[umamiAnalytics]
+  # websiteid = "ABC12345"
+  # domain = "llama.yoursite.com"
+  # dataDomains = "yoursite.com,yoursite2.com"
+
+[buymeacoffee]
+  # identifier = ""
+  # globalWidget = true
+  # globalWidgetMessage = "Hello"
+  # globalWidgetColor = "#FFDD00"
+  # globalWidgetPosition = "Right"
+
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""
