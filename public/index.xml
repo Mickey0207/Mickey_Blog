@@ -9,13 +9,23 @@
     <copyright>2024 Mickey Blog</copyright>
     <lastBuildDate>Wed, 31 Jul 2024 02:50:06 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>針灸大成_第一堂</title>
-      <link>http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/acupuncture_unit_1/</link>
+      <title>針灸大成_基本概念</title>
+      <link>http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/basic/</link>
       <pubDate>Wed, 31 Jul 2024 02:50:06 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/acupuncture_unit_1/</guid>
-      <description>學針灸要把中藥忘掉 # 一、針灸使用的時機 # 1.</description>
+      <guid>http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/basic/</guid>
+      <description>學針灸要把中藥忘掉 # 針灸歌訣 # 針而勿灸 灸勿針 針經為此常叮嚀 針灸並施 徒施患者炮烙刑</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/basic/featured.png" />
+    </item>
+    
+    <item>
+      <title>針灸大成_方法</title>
+      <link>http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/methodology/</link>
+      <pubDate>Wed, 31 Jul 2024 02:50:06 +0800</pubDate>
       
+      <guid>http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/methodology/</guid>
+      <description>一、穴道丈量的方法 # 1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/methodology/featured.png" />
     </item>
     
     <item>
