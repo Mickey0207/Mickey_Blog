@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中華文化 on Mickey Blog</title>
+    <link>http://localhost:1313/series/%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96/</link>
+    <description>Recent content in 中華文化 on Mickey Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-TW</language>
+    <copyright>2024 Mickey Blog</copyright>
+    <lastBuildDate>Wed, 31 Jul 2024 02:50:06 +0800</lastBuildDate><atom:link href="http://localhost:1313/series/%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中華文化</title>
+      <link>http://localhost:1313/posts/chinese/</link>
+      <pubDate>Wed, 31 Jul 2024 02:50:06 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/chinese/</guid>
+      <description> 中華文化專注於學習 山 醫 命 相 卜 # 本部落格主向倪海廈老師學習 # 天紀內容為《易經》 《紫微斗數》 《陽宅風水》 《看相測字》 人紀內容為《針灸大成》《神農本草經》《皇帝內經》《傷寒論》《金匱要略》 </description>
+      
+    </item>
+    
+  </channel>
+</rss>

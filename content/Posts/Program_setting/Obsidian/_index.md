@@ -6,6 +6,6 @@ images:
 series: 
 series_order: 1
 tags:
+    - Obsidian
 ---
 
-## 中滑

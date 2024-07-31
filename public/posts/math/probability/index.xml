@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>機率 on Mickey Blog</title>
+    <link>http://localhost:1313/posts/math/probability/</link>
+    <description>Recent content in 機率 on Mickey Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-TW</language>
+    <copyright>2024 Mickey Blog</copyright>
+    <lastBuildDate>Wed, 31 Jul 2024 02:50:06 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/math/probability/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

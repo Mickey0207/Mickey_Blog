@@ -22,16 +22,22 @@
     weight = 20
 
 [[main]]
+    name = "數學"
+#  parent = "Parent"
+    pageRef = "Posts/Math"
+    weight = 30
+
+[[main]]
     name = "程式設定"
 #  parent = "Parent"
     pageRef = "Posts/Program_Language"
-    weight = 20
+    weight = 40
 
 [[main]]
     name = "程式語言"
 #  parent = "Parent"
     pageRef = "Posts/Program_setting"
-    weight = 20
+    weight = 50
 
 #[[subnavigation]]       #/ Posts 子選單一
 #    name = "中華文化"   #/選單名稱

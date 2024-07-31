@@ -47,11 +47,11 @@ smartTOCHideUnfocusedChildren = true    #/ 	當開啟智慧目錄，如果目錄
   layoutBackgroundBlur = true     #/ 向下捲動主頁時，是否模糊背景圖。 # only used when layout equals background
 
 [article]
-  showDate = true   #/ 是否顯示日期。
+  showDate = false   #/ 是否顯示日期。
   showViews = false
   showLikes = false
-  showDateOnlyInArticle = true   #/ 在文章內顯示日期，不影響文章清單或卡片頁面的日期顯示。
-  showDateUpdated = true    #/ 展示文章的更新日期。
+  showDateOnlyInArticle = false   #/ 在文章內顯示日期，不影響文章清單或卡片頁面的日期顯示。
+  showDateUpdated = false    #/ 展示文章的更新日期。
   showAuthor = true
   # showAuthorBottom = false
   showHero = true   #/ 是否在文章內展示縮圖
@@ -73,7 +73,7 @@ smartTOCHideUnfocusedChildren = true    #/ 	當開啟智慧目錄，如果目錄
   # relatedContentLimit = 3
   showTaxonomies = true   #/ 顯示文章的分類或標籤資訊。
   showAuthorsBadges = false
-  showWordCount = true    #/ 顯示文章字數
+  showWordCount = false    #/ 顯示文章字數
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
 

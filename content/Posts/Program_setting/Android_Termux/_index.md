@@ -1,11 +1,12 @@
 ---
-title: "Termux"
-date : 2024-07-30T02:48:07+08:00
+title: Termux
+date: 2024-07-30T02:48:07+08:00
 draft: false
-images:
+images: 
 series: 
 series_order: 1
 tags:
+    - Termux
+    - Android
 ---
 
-## 中滑
