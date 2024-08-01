@@ -18,5 +18,15 @@
       
     </item>
     
+    <item>
+      <title>編輯中</title>
+      <link>http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/edit/</link>
+      <pubDate>Tue, 30 Jul 2024 02:48:07 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/edit/</guid>
+      <description>十一、附錄 # 1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chinese/human_biography/acupuncture_dacheng/edit/featured.png" />
+    </item>
+    
   </channel>
 </rss>
