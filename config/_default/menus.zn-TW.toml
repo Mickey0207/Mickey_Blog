@@ -17,14 +17,14 @@
     weight = 10
 
 [[main]]
-    name = "中華文化"
-    pageRef = "Posts/Chinese"
-    weight = 20
-
-[[main]]
     name = "數學"
 #  parent = "Parent"
     pageRef = "Posts/Math"
+    weight = 20
+
+[[main]]
+    name = "中華文化"
+    pageRef = "Posts/Chinese"
     weight = 30
 
 [[main]]
