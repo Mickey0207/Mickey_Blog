@@ -75,12 +75,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/program_setting/obsidian/obsidian_github_setting/</loc>
-    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/posts/program_language/python/</loc>
     <lastmod>2024-07-30T02:48:07+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -142,7 +136,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/program_setting/android_termux/android_termux_git_setting/</loc>
-    <lastmod>2024-07-29T02:50:06+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -193,6 +186,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/program_language/html/basic_tag/a_fref_link/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_setting/obsidian/obsidian_github_setting/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
