@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>水平線 on Mickey Blog</title>
+    <link>http://localhost:1313/tags/%E6%B0%B4%E5%B9%B3%E7%B7%9A/</link>
+    <description>Recent content in 水平線 on Mickey Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-TW</language>
+    <copyright>2024 Mickey Blog</copyright>
+    <atom:link href="http://localhost:1313/tags/%E6%B0%B4%E5%B9%B3%E7%B7%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML 水平線</title>
+      <link>http://localhost:1313/posts/program_language/html/basic_tag/hr_horizon_line/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/program_language/html/basic_tag/hr_horizon_line/</guid>
+      <description>一、標籤 # &amp;lt;hr&amp;gt; 二、屬性 # 1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/program_language/html/basic_tag/hr_horizon_line/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,5 @@
 ---
 title: "Obsidian_Github_Setting"
-date : 2024-07-30T02:48:07+08:00
 draft: false
 images:
 series: ["Technology"]

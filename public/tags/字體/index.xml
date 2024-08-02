@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>字體 on Mickey Blog</title>
+    <link>http://localhost:1313/tags/%E5%AD%97%E9%AB%94/</link>
+    <description>Recent content in 字體 on Mickey Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-TW</language>
+    <copyright>2024 Mickey Blog</copyright>
+    <atom:link href="http://localhost:1313/tags/%E5%AD%97%E9%AB%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML 字型</title>
+      <link>http://localhost:1313/posts/program_language/html/basic_tag/front_change_font/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/program_language/html/basic_tag/front_change_font/</guid>
+      <description>一、標籤 # &amp;lt;font&amp;gt;輸入文字&amp;lt;/font&amp;gt; 二、屬性 # 1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/program_language/html/basic_tag/front_change_font/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

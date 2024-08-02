@@ -1,6 +1,5 @@
 ---
 title: Android_Termux_Git_Setting
-date: 2024-07-29T02:50:06+08:00
 draft: false
 images: 
 series: Technology

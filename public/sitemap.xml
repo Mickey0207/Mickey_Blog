@@ -45,6 +45,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/program_language/html/main_tag/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/basic_tag/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/basic_tag/b_i_u/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/basic_tag/ul_unordered_list/</loc>
+    <lastmod>2024-07-30T02:48:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/program_setting/obsidian/</loc>
     <lastmod>2024-07-30T02:48:07+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -119,6 +143,56 @@
   <url>
     <loc>http://localhost:1313/posts/program_setting/android_termux/android_termux_git_setting/</loc>
     <lastmod>2024-07-29T02:50:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/main_tag/html_main_tag/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/basic_tag/front_change_font/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/basic_tag/img_insert_picture/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/basic_tag/br_p_pre_linebreaks_paragraph_format/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/basic_tag/ol_orderly_list/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/basic_tag/h1-h6_title/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/basic_tag/hr_horizon_line/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/basic_tag/body_web_content/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/main_tag/web_name/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/program_language/html/basic_tag/a_fref_link/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

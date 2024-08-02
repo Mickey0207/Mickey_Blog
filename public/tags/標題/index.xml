@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>標題 on Mickey Blog</title>
+    <link>http://localhost:1313/tags/%E6%A8%99%E9%A1%8C/</link>
+    <description>Recent content in 標題 on Mickey Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-TW</language>
+    <copyright>2024 Mickey Blog</copyright>
+    <atom:link href="http://localhost:1313/tags/%E6%A8%99%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML 標題1~6</title>
+      <link>http://localhost:1313/posts/program_language/html/basic_tag/h1-h6_title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/program_language/html/basic_tag/h1-h6_title/</guid>
+      <description>標題一 # &amp;lt;h1&amp;gt;Title 1&amp;lt;/h1&amp;gt; 標題二 # &amp;lt;h2&amp;gt;Title 1&amp;lt;/h2&amp;gt; 標題三 # &amp;lt;h3&amp;gt;Title 1&amp;lt;/h3&amp;gt; 標題四 # &amp;lt;h4&amp;gt;Title 1&amp;lt;/h4&amp;gt; 標題五 # &amp;lt;h5&amp;gt;Title 1&amp;lt;/h5&amp;gt; 標題六 # &amp;lt;h6&amp;gt;Title 1&amp;lt;/h6&amp;gt; </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/program_language/html/basic_tag/h1-h6_title/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

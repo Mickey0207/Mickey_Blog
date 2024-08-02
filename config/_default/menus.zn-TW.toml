@@ -28,13 +28,13 @@
     weight = 30
 
 [[main]]
-    name = "程式設定"
+    name = "程式語言"
 #  parent = "Parent"
     pageRef = "Posts/Program_Language"
     weight = 40
 
 [[main]]
-    name = "程式語言"
+    name = "程式設定"
 #  parent = "Parent"
     pageRef = "Posts/Program_setting"
     weight = 50
